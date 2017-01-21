@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Gallery</string>
+     <string name="date_take">Date Taken</string>
+    <string name="date_published">Date Published</string>
+    <string name="non">Non</string>
+    <string name="order_by">Order By:</string>
 </resources>
