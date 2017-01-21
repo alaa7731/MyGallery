@@ -4,4 +4,6 @@
     <string name="date_published">Date Published</string>
     <string name="non">Non</string>
     <string name="order_by">Order By:</string>
+    <string name="taken_on">Taken on: %s</string>
+    <string name="taken_by">Taken by: %s</string>
 </resources>
